@@ -137,4 +137,5 @@ Anyways, good luck!
 
 ## 3. Running
 
-(To-do)
+1. Open `main.py` in VSCode
+2. Hit `Run`
